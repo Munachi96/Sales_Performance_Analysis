@@ -17,6 +17,15 @@ the overall performance of the company , to enable the company to make data-driv
 decisions/recommendations and to gain a deeper understanding of the company’s overall
 performance.
 
+
+<img width="952" alt="customer behaviour_screenshot" src="https://github.com/Munachi96/Sales_Performance_Analysis_for_a_Telecom_Company_USA/assets/144247179/4164cbc6-322d-44bb-b370-26feb90b5067">  <br> <br>
+
+<img width="951" alt="sales performnace by region_screenshot" src="https://github.com/Munachi96/Sales_Performance_Analysis_for_a_Telecom_Company_USA/assets/144247179/366ebb08-d729-4b7e-8332-bca9eb2b3bd5"> <br> <br>
+
+<img width="958" alt="sales perfprmance by channels_screenshot" src="https://github.com/Munachi96/Sales_Performance_Analysis_for_a_Telecom_Company_USA/assets/144247179/63642012-ce2f-4152-91c6-916240303f00"> <br> <br>
+
+<img width="954" alt="sales trend performance_screenshot" src="https://github.com/Munachi96/Sales_Performance_Analysis_for_a_Telecom_Company_USA/assets/144247179/8f85e786-8fb5-43f6-9421-7b10447e5a57"> <br> <br>
+
 # Data Sources:
 Sales Transaction Data : The primary dataset used for this data analysis project was sales
 transaction data, containing detailed information about each sales made by the company , and
