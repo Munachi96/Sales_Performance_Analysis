@@ -1,6 +1,19 @@
 # Sales_Performance_Analysis_for_a_Telecom_Company_USA
 A Data Analysis Project that Analysed the sales performance of a Telecommunication company Based in the United State. The company’s sales transaction data generated over the past years was used for this analysis.
 
+# Table of Content
+[Project Overview](project-overview)  <br> <br>
+[Data Sources](data-sources) <br> <br>
+[Data Analysis Tools Used](data-analysis-tools-used) <br> <br>
+[ Data Collection](data-collection) <br> <br>
+[Data Cleaning and Formatting](data-cleaning-and-formatting) <br> <br>
+[Loading Data into Power BI](loading-data-into-power-bi) <br> <br>
+[Exploratory Data Analysis (EDA)](exploratory-data-analysis-(eda)) <br> <br>
+[Data Analysis](data-analysis) <br> <br>
+[Results and Findings](results-and-findings) <br> <br>
+[Recommendations](recommendations) <br> <br>
+
+
 # Project Overview:
 This Data Analysis Project aims to provide insights into the sales performance of a Telecommunication company Based in the United State.
 
@@ -64,7 +77,8 @@ The results were downloaded and saved as the following csv files below: <br> <br
  # Loading Data into Power BI:
 - I loaded the downloaded csv files into __Power BI__ for the purpose of Data Visualization and Building interactive dashboard/report.
 
- # Exploratory Data Analysis (EDA): EDA involves exploring the sales data in order to answersome key questions such as :
+ # Exploratory Data Analysis (EDA): 
+ EDA involves exploring the sales data in order to answersome key questions such as :
 - Who are the top 10 customers of the company ?
 - What particular products are the Top customers buying ?
 - Comparative analysis to find out the top selling product ?
@@ -144,7 +158,7 @@ FROM orders
 GROUP BY year
 ORDER BY year
 ```
-# Results/ Findings:
+# Results and Findings:
  The Analysis Results is summarised as follows:
 1. The Company’s Top 3 Customers by ranking are
      - 1st: EOG Resources : Bought a total of 56,410 items and has generated a Total revenue of $382,870
