@@ -1,5 +1,5 @@
-# Sales_Performance_Analysis_for_a_Telecom_Company_USA
-A Data Analysis Project that Analysed the sales performance of a Telecommunication company Based in the United State. The company’s sales transaction data generated over the past years was used for this analysis.
+# Sales_Performance_Analysis_for_a_Telecom_Company
+A Data Analysis Project that Analysed the sales performance of a Telecommunication company. The company’s sales transaction data generated over the past years was used for this analysis.
 
 # Table of Content
 [Project Overview](project-overview)  <br> <br>
@@ -15,7 +15,7 @@ A Data Analysis Project that Analysed the sales performance of a Telecommunicati
 
 
 # Project Overview:
-This Data Analysis Project aims to provide insights into the sales performance of a Telecommunication company Based in the United State.
+This Data Analysis Project aims to provide insights into the sales performance of a Telecommunication company.
 
 __About the Company:__ The Telecommunication Company operates a B2B business model and
 sells a wide variety of cell phones and devices, including __smartphones, tablets,
